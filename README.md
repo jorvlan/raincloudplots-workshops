@@ -15,9 +15,9 @@ We will host three online workshops in which we will present step-by-step tutori
 The workshops will take place on the following dates:
 <br>
 <br>
-- 30-sept-2022 (14:00 CET) (Zoom) <insert link here>
-- 11-nov-2022 (14:00 CET) (Zoom) <insert linke here>
-- 17-feb-2023 (14:00 CET) (Hybrid?/Zoom) <insert link here>
+- 30-sept-2022 (14:00 CET) (Zoom) (insert link here)
+- 11-nov-2022 (14:00 CET) (Zoom) (insert linke here)
+- 17-feb-2023 (14:00 CET) (Hybrid?/Zoom) (insert link here)
 
 
 ## Interested in attending? Please read the following documentation about each workshop!
@@ -35,7 +35,7 @@ The workshops will take place on the following dates:
 		
 - Signing-up? Please indicate whether you want to learn about Python/Matlab/R, which is necessary information for the subsequent Zoom break-out rooms in which we will answer any questions you have, but most importantly, **give you the opportunity to Bring Your Own Data (BYOD)** to co-develop & fine-tune your amazing plots!
 
-- Please register your attendance here: <insert link to form>
+- Please register your attendance here: (insert link to form)
 
 
 For an extensive overview about raincloudplots, please read our paper or try out our R-package 'raincloudplots'.
