@@ -3,7 +3,9 @@
 GitHub Repository about the upcoming 'raincloudplots' workshops.
 <br>
 <br>
-These workshops are part of our NWO 'Open Science' funded project: <a href="https://www.nwo.nl/en/projects/203001011">raincloudplots 2.0</a> by Rogier Kievit & Jordy van Langen. You can find additional info about the funded project here: https://www.nwo.nl/en/projects/203001011
+These workshops are part of our NWO 'Open Science' funded project: <a href="https://www.nwo.nl/en/projects/203001011">raincloudplots 2.0</a> by [Rogier Kievit](https://twitter.com/rogierK) & [Jordy van Langen](https://twitter.com/jordyvanlangen). 
+<br>
+You can find additional info about the funded project here: https://www.nwo.nl/en/projects/203001011
 
 ## Our plan
 With these workshops, we hope to educate & showcase 'raincloudplots' to the wider academic community.
