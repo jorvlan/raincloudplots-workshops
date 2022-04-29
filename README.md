@@ -45,7 +45,10 @@ The workshops will take place on the following dates:
 		
 - Please indicate whether you want to learn about Python/Matlab/R, which is necessary information for the subsequent Zoom break-out rooms in which we will answer any questions you have, but most importantly, **give you the opportunity to Bring Your Own Data (BYOD)** to co-develop & fine-tune your amazing plots!
 
-- You can register your attendance here: https://docs.google.com/forms/d/e/1FAIpQLSeTykveO8tJl2zP-7QgNOfM3vMTbkEe5RtqxMKbE5AiVDzb1A/viewform
+## Sign-up
+- You can register your attendance here: 
+<br>
+https://docs.google.com/forms/d/e/1FAIpQLSeTykveO8tJl2zP-7QgNOfM3vMTbkEe5RtqxMKbE5AiVDzb1A/viewform
 
 For an extensive overview about raincloudplots, please read our paper or try out our R-package 'raincloudplots'.
 
