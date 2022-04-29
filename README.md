@@ -21,6 +21,8 @@ You can find additional info about our funded project here: https://www.nwo.nl/e
 <img src="https://github.com/jorvlan/raincloudplots-workshops/blob/main/other/nwo_openscience.jpg" width="150" height="160" align="right"/>
 <br>
 <br>
+<br>
+<br>
 
 ## Our plan
 With these workshops, we hope to educate & showcase 'raincloudplots' to the wider academic community.
