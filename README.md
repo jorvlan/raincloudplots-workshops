@@ -4,7 +4,7 @@
 Repository to register for the upcoming 'raincloudplots' workshops.
 <br>
 <br>
-These workshops are part of our NWO 'Open Science' funded project: <a href="raincloudplots 2.0">https://www.nwo.nl/en/projects/203001011</a> by Rogier Kievit & Jordy van Langen. <br> <a href="https://doi.org/10.12688/wellcomeopenres.15191.2">https://doi.org/10.12688/wellcomeopenres.15191.2</a>
+These workshops are part of our NWO 'Open Science' funded project: <a href="https://www.nwo.nl/en/projects/203001011">raincloudplots 2.0</a> by Rogier Kievit & Jordy van Langen. <br> <a href="https://doi.org/10.12688/wellcomeopenres.15191.2">https://doi.org/10.12688/wellcomeopenres.15191.2</a>
 For more info about the funded project: https://www.nwo.nl/en/projects/203001011
 <br>
 With the workshops, we hope to educate & showcase 'raincloudplots' to the wider academic community.
