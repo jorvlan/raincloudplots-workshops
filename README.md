@@ -1,5 +1,4 @@
-# raincloudplots-workshops
-<br>
+# raincloudplots-workshops <img src="https://github.com/jorvlan/open-visualizations/blob/master/R/package_figures/rainclouds_highres.png" width="150" height="160" align="right"/>
 <br>
 Repository to register for the upcoming 'raincloudplots' workshops.
 <br>
@@ -58,5 +57,4 @@ remotes::install_github('jorvlan/raincloudplots')
 
 library(raincloudplots)
 ```
-<img src="https://github.com/jorvlan/raincloudplots-workshops/blob/main/other/Schermafbeelding 2022-04-29 om 11.42.15 AM.png"/>
 
