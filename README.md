@@ -1,4 +1,4 @@
-# raincloudplots-workshops <img src="https://github.com/jorvlan/raincloudplots-workshops/blob/master/other/Schermafbeelding 2022-04-29 om 11.42.15 AM.png"/>
+# raincloudplots-workshops <img src="https://github.com/jorvlan/raincloudplots-workshops/blob/main/other/Schermafbeelding 2022-04-29 om 11.42.15 AM.png"/>
 
 <br>
 <br>
