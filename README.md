@@ -1,7 +1,10 @@
-# raincloudplots-workshops <img src="https://github.com/jorvlan/open-visualizations/blob/master/R/package_figures/rainclouds_highres.png" width="150" height="160" align="right"/>
+# raincloudplots-workshops 
+
 <br>
 <br>
-Repository to register for the upcoming 'raincloudplots' workshops
+Repository to register for the upcoming 'raincloudplots' workshops.
+<br>
+These workshops are part of our NWO 'Open Science' funded project: 'raincloudplots 2.0' by Rogier Kievit & Jordy van Langen
 <br>
 <br>
 These workshops will be organized on the following dates:
@@ -26,7 +29,7 @@ For an extensive overview about raincloudplots, please read our paper or try our
     <b>Wellcome Open Research</b> 2021, 4:63. <a href="https://doi.org/10.12688/wellcomeopenres.15191.2">https://doi.org/10.12688/wellcomeopenres.15191.2</a>
 </pre>
 
-**R-package: ['raincloudplots](https://github.com/jorvlan/raincloudplots)**
+**R-package: ['raincloudplots](https://github.com/jorvlan/raincloudplots)** <img src="https://github.com/jorvlan/open-visualizations/blob/master/R/package_figures/rainclouds_highres.png" width="150" height="160" align="right"/>
 
 How to install:
 ```r
