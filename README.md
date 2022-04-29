@@ -13,6 +13,10 @@ These workshops are part of our NWO 'Open Science' funded project: <a href="http
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 You can find additional info about our funded project here: https://www.nwo.nl/en/projects/203001011
 
 ## Our plan
