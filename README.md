@@ -16,14 +16,9 @@ The workshops will take place on the following dates:
 <br>
 <br>
 - 30-sept-2022 (14:00 CET) (Zoom) <insert link here>
-<br>
-<br>
 - 11-nov-2022 (14:00 CET) (Zoom) <insert linke here>
-<br>
-<br>
 - 17-feb-2023 (14:00 CET) (Hybrid?/Zoom) <insert link here>
-<br>
-<br>
+
 
 ## Interested in attending? Please read the following documentation about each workshop!
 <pre>
