@@ -27,6 +27,7 @@ The workshops will take place on the following dates:
 	- What are raincloudplots?
 	- What are alternatives?
 	- How to plot: from simple to advanced
+	- JASP Statistics
 	- Community input: what would you like to be improved/see?
 	- raincloudplots: ShinyApp demo
 	- Break-out rooms: (Python/Matlab/R)
