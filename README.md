@@ -1,5 +1,7 @@
-# raincloudplots-workshops <img src="https://github.com/jorvlan/raincloudplots-workshops/blob/main/other/Schermafbeelding 2022-04-29 om 11.42.15 AM.png"/>
-
+# raincloudplots-workshops 
+<br>
+<br>
+<img src="https://github.com/jorvlan/raincloudplots-workshops/blob/main/other/Schermafbeelding 2022-04-29 om 11.42.15 AM.png"/>
 <br>
 <br>
 Repository to register for the upcoming 'raincloudplots' workshops.
