@@ -24,13 +24,13 @@ The workshops will take place on the following dates:
 - Duration: Max. 2 hours workshops.
 
 - Outline: 
-	– What are raincloudplots?
-	– What are alternatives?
-	– How to plot: from simple to advanced
-	- Community input: what would you like to improve/see?
-	- Shiny App demo
-	– Break-out rooms: (Python/Matlab/R)
-		- Bring Your Own Data
+	- What are raincloudplots?
+	- What are alternatives?
+	- How to plot: from simple to advanced
+	- Community input: what would you like to be improved/see?
+	- raincloudplots: ShinyApp demo
+	- Break-out rooms: (Python/Matlab/R)
+		- Bring Your Own Data!
 		
 - Signing-up? Please indicate whether you want to learn about Python/Matlab/R, which is necessary information for the subsequent Zoom break-out rooms in which we will answer any questions you have, but most importantly, **give you the opportunity to Bring Your Own Data (BYOD)** to co-develop & fine-tune your amazing plots!
 
