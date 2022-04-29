@@ -21,7 +21,6 @@ The workshops will take place on the following dates:
 
 
 ## Interested in attending? Please read the following documentation about each workshop!
-<pre>
 
 - Duration: Max. 2 hours workshops.
 
@@ -37,7 +36,7 @@ The workshops will take place on the following dates:
 - Signing-up? Please indicate whether you want to learn about Python/Matlab/R, which is necessary information for the subsequent Zoom break-out rooms in which we will answer any questions you have, but most importantly, **give you the opportunity to Bring Your Own Data (BYOD)** to co-develop & fine-tune your amazing plots!
 
 - Please register your attendance here: <insert link to form>
-</pre>
+
 
 For an extensive overview about raincloudplots, please read our paper or try out our R-package 'raincloudplots'.
 
