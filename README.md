@@ -1,12 +1,14 @@
-# raincloudplots-workshops 
-<br>
-<br>
 <img src="https://github.com/jorvlan/raincloudplots-workshops/blob/main/other/Schermafbeelding 2022-04-29 om 11.42.15 AM.png"/>
 <br>
 <br>
+# raincloudplots-workshops 
+<br>
+<br>
 Repository to register for the upcoming 'raincloudplots' workshops.
+
 <br>
 These workshops are part of our NWO 'Open Science' funded project: 'raincloudplots 2.0' by Rogier Kievit & Jordy van Langen
+with the purpose to educate & showcase 'raincloudplots' to the wider academic community.
 <br>
 <br>
 The workshops will be organized on the following dates:
@@ -24,36 +26,17 @@ The workshops will be organized on the following dates:
 
 ## Interested in attending? Please read the following documentation about each workshop!
 <pre>
-- When signing up for one of the workshops: Participants
-should indicate whether they want to learn about Python/Matlab/R, which is
-necessary for the subsequent Zoom break-out rooms.
-those will be structured along the programming languages. Ask Davide to lead the Python break-out room,
-ask Tom to lead the Matlab break-out room. Jordy/Rogier/Micah could
-do the R break-out room. Neem je data mee en we gaan aan de slag in
-de workshop.
-
-
-
-Max. 2 hours
-workshop duration.
-
-
-
-Workshop structure:
-	– What are
-raincloudplots?
-	– What are
-alternatives?
-	– How to plot?
-		– follow
-structure from the paper
-		– from Simple to
-advanced
-- Community input,
-ask what would you like to improve?
-- Show shiny App
-	– Break-out rooms
-(Python/Matlab/R) (first 10 min; een paar van de basics kunnen maken,
+- When signing up for one of the workshops: Participants should indicate whether they want to learn about Python/Matlab/R, which is
+necessary information for the subsequent Zoom break-out rooms in which we will answer any questions you have, but most importantly, **give you the opportunity to Bring Your Own Data (BYOD)** to co-develop & fine-tune your amazing plots!
+- Duration: Max. 2 hours workshops.
+- Outline: 
+	– What are raincloudplots?
+	– What are alternatives?
+	– How to plot: from simple to advanced
+	- Community input: what would you like to improve/see?
+	- Shiny App demo
+	– Break-out rooms: (Python/Matlab/R)
+		- Bring Your Own Data
 
 </pre>
 
