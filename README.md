@@ -1,14 +1,14 @@
-<img src="https://github.com/jorvlan/raincloudplots-workshops/blob/main/other/Schermafbeelding 2022-04-29 om 11.42.15 AM.png"/>
-<br>
-<br>
-# raincloudplots-workshops 
+# raincloudplots-workshops
 <br>
 <br>
 Repository to register for the upcoming 'raincloudplots' workshops.
-
 <br>
-These workshops are part of our NWO 'Open Science' funded project: 'raincloudplots 2.0' by Rogier Kievit & Jordy van Langen
-with the purpose to educate & showcase 'raincloudplots' to the wider academic community.
+<br>
+These workshops are part of our NWO 'Open Science' funded project: ['raincloudplots 2.0'](https://www.nwo.nl/en/projects/203001011) by Rogier Kievit & Jordy van Langen. <br>
+For more info about the funded project: https://www.nwo.nl/en/projects/203001011
+<br>
+With the workshops, we hope to educate & showcase 'raincloudplots' to the wider academic community.
+We will host three online workshops in which we will present step-by-step tutorials for experts, who are already familiar with 'raincloudplots', but also to those who find using code (unnecessarily) daunting. The free workshops will entail plenary walk-throughs and smaller break-out-rooms.
 <br>
 <br>
 The workshops will be organized on the following dates:
@@ -26,9 +26,9 @@ The workshops will be organized on the following dates:
 
 ## Interested in attending? Please read the following documentation about each workshop!
 <pre>
-- When signing up for one of the workshops: Participants should indicate whether they want to learn about Python/Matlab/R, which is
-necessary information for the subsequent Zoom break-out rooms in which we will answer any questions you have, but most importantly, **give you the opportunity to Bring Your Own Data (BYOD)** to co-develop & fine-tune your amazing plots!
+
 - Duration: Max. 2 hours workshops.
+
 - Outline: 
 	– What are raincloudplots?
 	– What are alternatives?
@@ -37,6 +37,12 @@ necessary information for the subsequent Zoom break-out rooms in which we will a
 	- Shiny App demo
 	– Break-out rooms: (Python/Matlab/R)
 		- Bring Your Own Data
+		
+- Signing-up? Please indicate whether you want to learn about Python/Matlab/R, which is necessary information for the subsequent Zoom break-out rooms in which we will answer any questions you have, but most importantly, **give you the opportunity to Bring Your Own Data (BYOD)** to co-develop & fine-tune your amazing plots!
+
+- Please register your attendance here: <insert link to form>
+
+- Looking forward to see you at one of the workshops!
 
 </pre>
 
@@ -60,4 +66,5 @@ remotes::install_github('jorvlan/raincloudplots')
 
 library(raincloudplots)
 ```
+<img src="https://github.com/jorvlan/raincloudplots-workshops/blob/main/other/Schermafbeelding 2022-04-29 om 11.42.15 AM.png"/>
 
