@@ -1,4 +1,4 @@
-# raincloudplots-workshops <img src="https://github.com/jorvlan/open-visualizations/blob/master/R/package_figures/rainclouds_highres.png" width="150" height="160" align="right"/>
+# raincloudplots-workshops <img src="https://github.com/jorvlan/raincloudplots-workshops/blob/main/other/nwo_openscience.jpg" width="150" height="160" align="right"/>
 <br>
 <br>
 <br>
@@ -16,13 +16,7 @@ Repository about the upcoming 'raincloudplots' workshops which are part of our N
 <br>
 <br>
 You can find additional info about our funded project here: https://www.nwo.nl/en/projects/203001011
-<br>
-<br>
-<img src="https://github.com/jorvlan/raincloudplots-workshops/blob/main/other/nwo_openscience.jpg" width="150" height="160" align="right"/>
-<br>
-<br>
-<br>
-<br>
+
 
 ## Our plan
 With these workshops, we hope to educate & showcase 'raincloudplots' to the wider academic community.
