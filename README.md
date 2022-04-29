@@ -47,9 +47,9 @@ The workshops will take place on the following dates:
 
 ## Sign-up
 - You can register your attendance here: 
-<br>
 https://docs.google.com/forms/d/e/1FAIpQLSeTykveO8tJl2zP-7QgNOfM3vMTbkEe5RtqxMKbE5AiVDzb1A/viewform
-
+<br>
+<br>
 For an extensive overview about raincloudplots, please read our paper or try out our R-package 'raincloudplots'.
 
 **Paper**
