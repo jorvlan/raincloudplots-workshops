@@ -5,12 +5,12 @@ Repository to register for the upcoming 'raincloudplots' workshops.
 <br>
 <br>
 These workshops are part of our NWO 'Open Science' funded project: <a href="https://www.nwo.nl/en/projects/203001011">raincloudplots 2.0</a> by Rogier Kievit & Jordy van Langen. You can find additional info about the funded project here: https://www.nwo.nl/en/projects/203001011
-<br>
+
 ## Our plan
 With these workshops, we hope to educate & showcase 'raincloudplots' to the wider academic community.
 We will host three online workshops in which we will present step-by-step tutorials for experts, who are already familiar with 'raincloudplots', but also to those who find using code (unnecessarily) daunting. The free workshops will entail plenary walk-throughs and smaller break-out-rooms.
-<br>
-<br>
+
+
 ## When?
 The workshops will take place on the following dates:
 <br>
