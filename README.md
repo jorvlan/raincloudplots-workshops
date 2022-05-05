@@ -52,7 +52,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeTykveO8tJl2zP-7QgNOfM3vMTbkEe5RtqxMKb
 <br>
 <br>
 For an extensive overview about raincloudplots, please read our paper or try out our R-package 'raincloudplots'.
-<br>
+
 **Paper**
 <br>
 <pre>
