@@ -29,7 +29,8 @@ The workshops will take place on the following dates:
 - 11-nov-2022 (14:00 CET) (Zoom) (insert linke here)
 - 17-feb-2023 (14:00 CET) (Hybrid?/Zoom) (insert link here)
 
-## Interested in attending? Please read the following documentation about each workshop!
+## Interested in attending? 
+#### Please read the following documentation about each workshop.
 
 - Duration: Max. 2 hours workshops.
 
@@ -51,7 +52,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeTykveO8tJl2zP-7QgNOfM3vMTbkEe5RtqxMKb
 <br>
 <br>
 For an extensive overview about raincloudplots, please read our paper or try out our R-package 'raincloudplots'.
-
+<br>
 **Paper**
 <pre>
 - Allen, M., Poggiali, D., Whitaker, K., Marshall, T. R., van Langen, J., & Kievit, R. A.
