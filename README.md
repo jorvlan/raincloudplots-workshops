@@ -54,6 +54,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeTykveO8tJl2zP-7QgNOfM3vMTbkEe5RtqxMKb
 For an extensive overview about raincloudplots, please read our paper or try out our R-package 'raincloudplots'.
 <br>
 **Paper**
+<br>
 <pre>
 - Allen, M., Poggiali, D., Whitaker, K., Marshall, T. R., van Langen, J., & Kievit, R. A.
     Raincloud plots: a multi-platform tool for robust data visualization [version 2; peer review: 2 approved] 
