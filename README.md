@@ -63,7 +63,7 @@ The workshops will take place on the following dates:
 		
 - Please indicate whether you want to learn about Python/Matlab/R, which is necessary information for the subsequent Zoom break-out rooms in which we will answer any questions you have, but most importantly, **give you the opportunity to Bring Your Own Data (BYOD)** to co-develop & fine-tune your amazing plots!
 
-- There will be a maximum amount of attendees of 100 for each workshop.
+- <b>There will be a maximum amount of attendees of 100 for each workshop.</b>
 
 ## Sign-up
 - You can register your attendance here: 
