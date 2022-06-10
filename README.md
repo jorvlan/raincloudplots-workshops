@@ -25,7 +25,7 @@ We will host three online workshops in which we will present step-by-step tutori
 ## When?
 The workshops will take place on the following dates:
 <br>
-- <b> 23-sept-2022</b> Local in-person workshop (Donders Institute only)
+- <b> 23-sept-2022</b> Local in-person workshop (no sign up possible, Donders Institute only)
 	- 10:00-12:00 CET
 	- Language: R
 - <b>30-sept-2022</b> (online, worldwide)
