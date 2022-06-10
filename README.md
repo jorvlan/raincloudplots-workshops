@@ -25,13 +25,19 @@ We will host three online workshops in which we will present step-by-step tutori
 ## When?
 The workshops will take place on the following dates:
 <br>
-- <b>30-sept-2022 - 14:00 CET</b>
-	- ZOOM link: https://radbouduniversity.zoom.us/j/85218377686?pwd=dVliTXdYeGJXVm13NTMzNnBLUzM0QT09 
+- <b>30-sept-2022</b>
+	- 14:00 CET 
+	- Language: R
+	- https://radbouduniversity.zoom.us/j/85218377686?pwd=dVliTXdYeGJXVm13NTMzNnBLUzM0QT09 
 	- Meeting ID: 852 1837 7686
 	- Passcode: 623474
 	
-- 11-nov-2022 (14:00 CET) (Zoom) (insert linke here) (R/Python/MATLAB/JASP)
-- 17-feb-2023 (14:00 CET) (Hybrid?/Zoom) (insert link here) (R/Python/MATLAB/JASP)
+- <b>11-nov-2022 - 14:00 CET  (Languages: R/Python/MATLAB/JASP)</b> 
+	-https://radbouduniversity.zoom.us/j/83224152680?pwd=Vzc1ZWZYSEdrVkdGY0lIWVprczAyUT09
+	- Meeting ID: 832 2415 2680
+	- Passcode: 111980
+
+- <b>17-feb-2023 - 14:00 CET (Hybrid?/Zoom) (insert link here) (R/Python/MATLAB/JASP)
 
 ## Interested in attending? 
 #### Please read the following documentation about each workshop.
