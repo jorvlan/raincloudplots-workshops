@@ -20,7 +20,7 @@ You can find additional info about our funded project here: https://www.nwo.nl/e
 
 ## Our plan
 With these workshops, we hope to educate & showcase 'raincloudplots' to the wider academic community.
-We will host three online workshops in which we will present step-by-step tutorials for experts, who are already familiar with 'raincloudplots', but also to those who find using code (unnecessarily) daunting. The free workshops will entail plenary walk-throughs and smaller break-out-rooms
+We will host three online workshops in which we will present step-by-step tutorials for experts, who are already familiar with 'raincloudplots', but also to those who find using code (unnecessarily) daunting. The free workshops will entail plenary walk-throughs and smaller break-out-rooms (only break-out rooms in workshops #2 & #3)
 
 ## When?
 The workshops will take place on the following dates:
@@ -32,12 +32,19 @@ The workshops will take place on the following dates:
 		- Meeting ID: 852 1837 7686
 		- Passcode: 623474
 	
-- <b>11-nov-2022 - 14:00 CET  (Languages: R/Python/MATLAB/JASP)</b> 
-	-https://radbouduniversity.zoom.us/j/83224152680?pwd=Vzc1ZWZYSEdrVkdGY0lIWVprczAyUT09
-	- Meeting ID: 832 2415 2680
-	- Passcode: 111980
+- <b>11-nov-2022</b>
+	- 14:00-16:00 CET  
+	- Languages: R/Python/MATLAB/JASP
+	- Join Zoom Meeting: https://radbouduniversity.zoom.us/j/83224152680?pwd=Vzc1ZWZYSEdrVkdGY0lIWVprczAyUT09
+		- Meeting ID: 832 2415 2680
+		- Passcode: 111980
 
-- <b>17-feb-2023 - 14:00 CET (Hybrid?/Zoom) (insert link here) (R/Python/MATLAB/JASP)
+- <b>17-feb-2023</b> 
+	- 14:00-16:00 CET
+	- Languages: R/Python/MATLAB/JASP
+	- Join Zoom Meeting: https://radbouduniversity.zoom.us/j/86837309207?pwd=TlphanBUUHBEb1g0bjhUTXJQWC9adz09
+		- Meeting ID: 868 3730 9207
+		- Passcode: 723668
 
 ## Interested in attending? 
 #### Please read the following documentation about each workshop.
@@ -51,7 +58,7 @@ The workshops will take place on the following dates:
 	- JASP Statistics
 	- Community input: what would you like to be improved/see?
 	- raincloudplots: ShinyApp demo
-	- Break-out rooms: (Python/Matlab/R)
+	- Break-out rooms: (Python/Matlab/R/JASP) (<b>only break-out rooms in workshops #2 & #3</b>)
 		- Bring Your Own Data!
 		
 - Please indicate whether you want to learn about Python/Matlab/R, which is necessary information for the subsequent Zoom break-out rooms in which we will answer any questions you have, but most importantly, **give you the opportunity to Bring Your Own Data (BYOD)** to co-develop & fine-tune your amazing plots!
