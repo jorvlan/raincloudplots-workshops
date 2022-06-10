@@ -25,7 +25,8 @@ We will host three online workshops in which we will present step-by-step tutori
 ## When?
 The workshops will take place on the following dates:
 <br>
-- 30-sept-2022 - 14:00 CET - -ZOOM link: https://radbouduniversity.zoom.us/j/85218377686?pwd=dVliTXdYeGJXVm13NTMzNnBLUzM0QT09 
+- <b>30-sept-2022 - 14:00 CET</b>
+	- ZOOM link: https://radbouduniversity.zoom.us/j/85218377686?pwd=dVliTXdYeGJXVm13NTMzNnBLUzM0QT09 
 	- Meeting ID: 852 1837 7686
 	- Passcode: 623474
 	
