@@ -20,7 +20,7 @@ You can find additional info about our funded project here: https://www.nwo.nl/e
 
 ## Our plan
 With these workshops, we hope to educate & showcase 'raincloudplots' to the wider academic community.
-We will host three online workshops in which we will present step-by-step tutorials for experts, who are already familiar with 'raincloudplots', but also to those who find using code (unnecessarily) daunting. The free workshops will entail plenary walk-throughs and smaller break-out-rooms (only break-out rooms in workshops #2 & #3)
+We will host three online workshops in which we will present step-by-step tutorials for experts, who are already familiar with 'raincloudplots', but also to those who find using code (unnecessarily) daunting. The free workshops will entail plenary walk-throughs and smaller break-out-rooms (<b>only break-out rooms in workshops #2 & #3</b>)
 
 ## When?
 The workshops will take place on the following dates:
