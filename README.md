@@ -28,9 +28,9 @@ The workshops will take place on the following dates:
 - <b>30-sept-2022</b>
 	- 14:00-16:00 CET 
 	- Language: R
-	- Join Zoom Meeting: https://radbouduniversity.zoom.us/j/85218377686?pwd=dVliTXdYeGJXVm13NTMzNnBLUzM0QT09 
+	<!--- Join Zoom Meeting: https://radbouduniversity.zoom.us/j/85218377686?pwd=dVliTXdYeGJXVm13NTMzNnBLUzM0QT09 
 		- Meeting ID: 852 1837 7686
-		- Passcode: 623474
+		- Passcode: 623474-->
 	
 - <b>11-nov-2022</b>
 	- 14:00-16:00 CET  
