@@ -90,7 +90,7 @@ The workshops will take place on the following dates:
 	- JASP Statistics
 	- Community input: what would you like to be improved/see?
 	- raincloudplots: ShinyApp demo
-	- Break-out rooms: (Python/Matlab/R/JASP) (<b>only break-out rooms in workshops #2 & #3</b>)
+	- Break-out rooms: (Python/Matlab/R/JASP)
 		- Bring Your Own Data!
 		
 - Please indicate whether you want to learn about Python/Matlab/R/JASP, which is necessary information for the subsequent Zoom break-out rooms in which we will answer any questions you have, but most importantly, **give you the opportunity to Bring Your Own Data (BYOD)** to co-develop & fine-tune your amazing plots!
