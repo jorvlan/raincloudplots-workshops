@@ -81,7 +81,7 @@ The workshops will take place on the following dates:
 ## Interested in attending? 
 #### Please read the following documentation about each workshop.
 
-- Duration: Max. 2 hours workshops.
+- Duration: Max. 2 hours
 
 - Outline: 
 	- What are raincloudplots?
