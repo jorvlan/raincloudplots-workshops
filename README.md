@@ -47,7 +47,7 @@ library(raincloudplots)
 
 ## Our plan
 With these workshops, we hope to educate & showcase 'raincloudplots' to the wider academic community.
-We will host three online workshops in which we will present step-by-step tutorials for experts, who are already familiar with 'raincloudplots', but also to those who find using code (unnecessarily) daunting. The free workshops will entail plenary walk-throughs and smaller break-out-rooms (<b>only break-out rooms in workshops #2 & #3</b>)
+We will host three online workshops in which we will present step-by-step tutorials for experts, who are already familiar with 'raincloudplots', but also to those who find using code (unnecessarily) daunting. The free workshops will entail plenary walk-throughs and smaller break-out-rooms.
 
 ## When?
 The workshops will take place on the following dates:
@@ -55,7 +55,7 @@ The workshops will take place on the following dates:
 - <b> 23-sept-2022</b> Local in-person workshop (no external sign up possible, Donders Institute only)
 	- 10:00-12:00 CET
 	- Language: R
-- <b>30-sept-2022</b> (online, worldwide)
+- <b>30-sept-2022</b> (online, worldwide) (<b>no break-out room, only break-out rooms in workshops 11-nov-2022 & 17-feb-2023</b>)
 	- 14:00-16:00 CET 
 	- Language: R
 	<!--- Join Zoom Meeting: https://radbouduniversity.zoom.us/j/85218377686?pwd=dVliTXdYeGJXVm13NTMzNnBLUzM0QT09 
@@ -65,6 +65,7 @@ The workshops will take place on the following dates:
 - <b>11-nov-2022</b> (online, worldwide)
 	- 14:00-16:00 CET  
 	- Languages: R/Python/MATLAB/JASP
+	- Break-out rooms
 	<!--- Join Zoom Meeting: https://radbouduniversity.zoom.us/j/83224152680?pwd=Vzc1ZWZYSEdrVkdGY0lIWVprczAyUT09
 		- Meeting ID: 832 2415 2680
 		- Passcode: 111980-->
@@ -72,6 +73,7 @@ The workshops will take place on the following dates:
 - <b>17-feb-2023</b> (online, worldwide)
 	- 14:00-16:00 CET
 	- Languages: R/Python/MATLAB/JASP
+	- Break-out rooms
 	<!--- Join Zoom Meeting: https://radbouduniversity.zoom.us/j/86837309207?pwd=TlphanBUUHBEb1g0bjhUTXJQWC9adz09
 		- Meeting ID: 868 3730 9207
 		- Passcode: 723668-->
