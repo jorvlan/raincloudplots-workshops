@@ -55,9 +55,10 @@ The workshops will take place on the following dates:
 - <b> 23-sept-2022</b> Local in-person workshop (no external sign up possible, Donders Institute only)
 	- 10:00-12:00 CET
 	- Language: R
-- <b>30-sept-2022</b> (online, worldwide) (<b>no break-out room, only break-out rooms in workshops 11-nov-2022 & 17-feb-2023</b>)
+- <b>30-sept-2022</b> (online, worldwide)
 	- 14:00-16:00 CET 
 	- Language: R
+	- Break-out rooms
 	<!--- Join Zoom Meeting: https://radbouduniversity.zoom.us/j/85218377686?pwd=dVliTXdYeGJXVm13NTMzNnBLUzM0QT09 
 		- Meeting ID: 852 1837 7686
 		- Passcode: 623474-->
