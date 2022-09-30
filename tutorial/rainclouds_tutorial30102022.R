@@ -14,6 +14,7 @@ getwd() # this tells you the current path of R
 # we set the path by using setwd()
 # for example: 
 # setwd("/Users/jordyvanlangen/Downloads/Material_fromGit300922")
+#or select Session->set working directory
 
 source("geom_flat_violin.R") #this only works if you set the right path!
 source("fn_summary_SE.r") # This does the summary. For each group's data frame, return a vector with
@@ -130,6 +131,8 @@ raincloud_1_h <- raincloud_1x1(
   scale_x_continuous(breaks=c(1,2), labels=c("Group1", "Group2"), limits=c(0, 3)) +
   labs(x = "Groups", y = "Score") +
   theme_classic()
+
+raincloud_1_h
 
 # now try to change the orientation!
 
