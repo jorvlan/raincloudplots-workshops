@@ -1,7 +1,7 @@
 # running on MacOS 12.5 Rstudio 2022.07.01 on 22-10-2022 by Nicholas Judd
 # original source: https://github.com/RainCloudPlots/RainCloudPlots/tree/master/tutorial_R
 
-packages <- c("patchwork", "readr", "tidyverse", "lavaan")
+packages <- c("patchwork", "tidyverse", "lavaan")
 if (length(setdiff(packages, rownames(installed.packages()))) > 0) {
   install.packages(setdiff(packages, rownames(installed.packages())))
 }
@@ -43,10 +43,13 @@ simdat <- simdat %>% mutate(group =
 
 # Calculate summary stats ----
 summary_simdat <- fn_summary_SE(simdat, score, group)
+
+# lets look at the data
+head(simdat)
+str(simdat)
 summary_simdat
 
 # now we will have a basic example of a single raincloud plot
-
 p0_h <- ggplot(simdat, aes(x = 1, y=score)) +
   geom_flat_violin(position = position_nudge(x = .23, y = 0),adjust = 2, width = .5, fill = "red", color = NA)+
   geom_boxplot(position = position_nudge(x = .17, y = 0), width = .1, outlier.colour = NA, fill = "red") +
@@ -128,9 +131,7 @@ raincloud_1_h <- raincloud_1x1(
   labs(x = "Groups", y = "Score") +
   theme_classic()
 
-
 # now try to change the orientation!
-
 
 # here we will make a repeated measures raincloud
 raincloud_2 <- raincloud_1x1_repmes(
