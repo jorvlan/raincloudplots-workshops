@@ -1,4 +1,4 @@
-# raincloudplots-workshops <img src="https://github.com/jorvlan/raincloudplots-workshops/blob/main/other/nwo_openscience.jpg" width="150" height="160" align="right"/>
+# Raincloudplots Workshops <img src="https://github.com/jorvlan/raincloudplots-workshops/blob/main/other/nwo_openscience.jpg" width="150" height="160" align="right"/>
 <br>
 <br>
 <br>
@@ -6,7 +6,7 @@
 <br>
 Repository about the upcoming 'raincloudplots' workshops which are part of our NWO 'Open Science' funded project: <a href="https://www.nwo.nl/en/projects/203001011">raincloudplots 2.0</a> by 
 <a href="https://twitter.com/rogierK">Rogier Kievit</a> and <a href="https://twitter.com/jordyvanlangen">Jordy van Langen</a>.
-<img src="https://github.com/jorvlan/raincloudplots-workshops/blob/main/other/jordy_australia.jpg" width="140" height="150" align="right"/>
+<img src="https://github.com/jorvlan/raincloudplots-workshops/blob/main/other/jordy_australia.jpg" width="150" height="150" align="right"/>
 <img src="https://github.com/jorvlan/raincloudplots-workshops/blob/main/other/photo_rogier.jpeg" width="150" height="150" align="right"/>
 <img src="https://github.com/jorvlan/raincloudplots-workshops/blob/main/other/njudd.jpg" width="150" height="150" align="right"/>
 <br>
