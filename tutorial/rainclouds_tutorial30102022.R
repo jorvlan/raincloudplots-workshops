@@ -14,6 +14,7 @@ getwd() # this tells you the current path of R
 # we set the path by using setwd()
 # for example:
 # setwd("/Users/njudd/projects/rain/raincloudplots-workshops/tutorial/")
+#or select Session->set working directory
 
 source("geom_flat_violin.R") #this only works if you set the right path!
 source("fn_summary_SE.r") # This does the summary. For each group's data frame, return a vector with
@@ -56,12 +57,17 @@ p0_h <- ggplot(simdat, aes(x = 1, y=score)) +
   geom_point(position = position_jitter(width = .10), size = .3, color = "red", alpha = .4)+
   coord_cartesian(xlim = c(0.2, 2)) + # change to .75 & 1.5 to zoom in
   labs(x = "Group", y = "Score") + 
-  theme_minimal() + theme(axis.text.x = element_blank(), axis.ticks.x = element_blank())
+  theme(axis.text.x = element_blank(), axis.ticks.x = element_blank()) +
+  theme_minimal()
 
 p0_h # printing the plot
 
 p0_v <- p0_h + coord_flip() #flipping the plot
 p0_v
+
+
+#ggsave("~/Desktop/ct.png", p0_v, bg = "white") # need to specify bg white for theme_minimal now
+
 #try to save the plot with ggsave()!
 
 # Plot with colours and coordinate flip
@@ -113,12 +119,26 @@ library(raincloudplots)
 # the data also need to a pre-jittered
 # there are two functions to do this: 1) data_1x1() & 2) data_2x2()
 
+# add filter command for long format
+
+simdat_filtered <- simdat %>% filter(group == "Group1") 
+simdat_filtered$score
 
 simdat_package <- data_1x1(
   array_1 = simdat[1:250,]$score, # grabbing a vector of the scores from the first group
-  array_2 = simdat[251:500,]$score, # grabbing a vector 
+  array_2 = simdat[251:500,]$score, # grabbing a vector of the scores from the secound group
   jit_distance = .09, # the specifies the amount of jitter
   jit_seed = 321)
+
+# manual indexing is poor practice incase you change things in your pipeline 
+#the numbers might not match up with the cases, here is a 'safer' example
+# simdat_package <- data_1x1(
+#   array_1 = simdat %>% filter(group == "Group1") %>% {.$score}, # grabbing a vector of the scores from the first group
+#   array_2 = simdat %>% filter(group == "Group2") %>% {.$score}, # grabbing a vector of the scores from the secound group
+#   jit_distance = .09, # the specifies the amount of jitter
+#   jit_seed = 321)
+
+
 
 raincloud_1_h <- raincloud_1x1(
   data = simdat_package, 
@@ -151,11 +171,7 @@ raincloud_2 <- raincloud_1x1_repmes(
 
 raincloud_2
 
-
 # advanced rainclouds!
-
-
-
 
 #Rainclouds with mean and confidence interval
 p7 <- ggplot(simdat,aes(x=group,y=score, fill = group, colour = group))+
@@ -263,6 +279,8 @@ p11 <- ggplot(rep_data, aes(x = time, y = score, fill = group)) +
   scale_fill_brewer(palette = "Dark2")+
   ggtitle("Figure 11: Repeated Measures - Factorial (Extended)")
 p11
+
+# add package call
 
 #Rainclouds for repeated measures, additional plotting options 
 
