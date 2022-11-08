@@ -1,4 +1,4 @@
-# Quick setup
+# Quick setup R
 
 ### 1. Make sure you have the latest R downloaded
 - Type `R.version$version.string` in R it should be **4.2.1** (aka Funny-Looking kid with `R.version$nickname`)
@@ -13,7 +13,17 @@
 - You can do this by running the following code `install.packages("tidyverse")`
 
 
+# Quick setup Python
 
+### 1. Download Anaconda
+- If you already have it please update with `conda update conda` followed by `conda update --all`. 
+- Otherwise download it [here](https://www.anaconda.com/products/distribution)!
+
+### 2. Install package ptitprince
+- run `conda install -c conda-forge ptitprince` if you have a macbook with an Apple chip this won't work therefore use `pip install ptitprince` instead.
+- See [here](https://github.com/pog87/PtitPrince) for more info
+
+To check the installation run `jupyter notebook` in the command line.
 
 
 
