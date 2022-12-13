@@ -45,7 +45,7 @@ remotes::install_github('jorvlan/raincloudplots')
 library(raincloudplots)
 ```
 
-**R-package: ['ggrain'](https://github.com/njudd/ggrain)
+**R-package: ['ggrain'](https://github.com/njudd/ggrain)**
 
 How to install:
 ```r
