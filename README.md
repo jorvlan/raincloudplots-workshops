@@ -45,6 +45,17 @@ remotes::install_github('jorvlan/raincloudplots')
 library(raincloudplots)
 ```
 
+**R-package: ['ggrain'](https://github.com/njudd/ggrain)
+
+How to install:
+```r
+if (!require(remotes)) {
+	install.packages("remotes")
+}
+remotes::install_github('njudd/ggrain')
+
+library(ggrain)
+```
 
 ## Our plan
 With these workshops, we hope to educate & showcase 'raincloudplots' to the wider academic community.
