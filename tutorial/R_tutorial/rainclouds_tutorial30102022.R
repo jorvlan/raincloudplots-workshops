@@ -12,18 +12,10 @@ library(tidyverse); library(patchwork)
 getwd() # this tells you the current path of R
 # we need to direct R to the folder with the scripts & data
 # we set the path by using setwd()
-<<<<<<< ours
 # for example:
-# setwd("/Users/njudd/projects/rain/raincloudplots-workshops/tutorial/")
+# setwd("/Users/njudd/projects/rain/raincloudplots-workshops/tutorial/R_tutorial")
 #or select Session->set working directory
-||||||| base
-# for example:
-# setwd("/Users/njudd/projects/rain/raincloudplots-workshops/tutorial/")
-=======
-# for example: 
-# setwd("/Users/jordyvanlangen/Downloads/Material_fromGit300922")
-#or select Session->set working directory
->>>>>>> theirs
+
 
 source("geom_flat_violin.R") #this only works if you set the right path!
 source("fn_summary_SE.r") # This does the summary. For each group's data frame, return a vector with
