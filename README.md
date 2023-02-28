@@ -64,32 +64,30 @@ We will host three online workshops in which we will present step-by-step tutori
 ## When?
 The workshops will take place on the following dates:
 <br>
-<!---just- <b> 23-sept-2022</b> Local in-person workshop (no external sign up possible, Donders Institute only)
+- <b> 23-sept-2022</b> Local in-person workshop (no external sign up possible, Donders Institute only)
 	- 10:00-12:00 CET
 	- Language: R
+	
 - <b>30-sept-2022</b> (online, worldwide)
 	- 14:00-16:00 CET 
 	- Language: R
 	- Break-out rooms
- Join Zoom Meeting: https://radbouduniversity.zoom.us/j/85218377686?pwd=dVliTXdYeGJXVm13NTMzNnBLUzM0QT09 
 		- Meeting ID: 852 1837 7686
-		- Passcode: 623474-->
+		- Passcode: 623474
 	
 - <b>11-nov-2022</b> (online, worldwide)
 	- 14:00-16:00 CET  
 	- Languages: R/Python/MATLAB/JASP
 	- Break-out rooms
-	<!--- Join Zoom Meeting: https://radbouduniversity.zoom.us/j/83224152680?pwd=Vzc1ZWZYSEdrVkdGY0lIWVprczAyUT09
 		- Meeting ID: 832 2415 2680
-		- Passcode: 111980-->
+		- Passcode: 111980
 
 - <b>17-feb-2023</b> (online, worldwide)
 	- 14:00-16:00 CET
 	- Languages: R/Python/MATLAB/JASP
 	- Break-out rooms
-	<!--- Join Zoom Meeting: https://radbouduniversity.zoom.us/j/86837309207?pwd=TlphanBUUHBEb1g0bjhUTXJQWC9adz09
 		- Meeting ID: 868 3730 9207
-		- Passcode: 723668-->
+		- Passcode: 723668
 
 ## Interested in attending? 
 #### Please read the following documentation about each workshop.
