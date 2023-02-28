@@ -72,22 +72,16 @@ The workshops will take place on the following dates:
 	- 14:00-16:00 CET 
 	- Language: R
 	- Break-out rooms
-		- Meeting ID: 852 1837 7686
-		- Passcode: 623474
 	
 - <b>11-nov-2022</b> (online, worldwide)
 	- 14:00-16:00 CET  
 	- Languages: R/Python/MATLAB/JASP
 	- Break-out rooms
-		- Meeting ID: 832 2415 2680
-		- Passcode: 111980
 
 - <b>17-feb-2023</b> (online, worldwide)
 	- 14:00-16:00 CET
 	- Languages: R/Python/MATLAB/JASP
 	- Break-out rooms
-		- Meeting ID: 868 3730 9207
-		- Passcode: 723668
 
 ## Interested in attending? 
 #### Please read the following documentation about each workshop.
