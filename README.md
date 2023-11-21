@@ -16,7 +16,7 @@ Repository about the upcoming 'raincloudplots' workshops which are part of our N
 <br>
 <br>
 <br>
-You can find additional info about our funded project [here](https://www.nwo.nl/en/projects/203001011)
+You can find additional info about our funded project <a href="https://www.nwo.nl/en/projects/203001011">here</a>.
 
 
 ## [Click here to download all the material](https://surfdrive.surf.nl/files/index.php/s/1YdcZalIZxhFigy)
