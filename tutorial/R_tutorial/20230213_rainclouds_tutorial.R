@@ -8,7 +8,7 @@
 if (!require(pacman)) {
   install.packages("pacman")
 }
-pacman::p_load(patchwork, tidyverse, lavaan, ggpp,
+pacman::p_load(patchwork, tidyverse, lavaan, ggpp, plyr,
                ggrain) #for rainclouds
 
 getwd() # this tells you the current path of R
@@ -93,7 +93,7 @@ p2_h # printing the plot
 p2_v <- p2_h + coord_flip() #flipping the plot
 p2_v
 
-# now lets do it with rainclouds
+# lets do it with ggrain; it doesn't have to look the exact same
 ggplot(simdat, aes(x = 1, y=score)) +
   geom_rain() +
   coord_flip() +
@@ -112,9 +112,6 @@ ggplot(simdat, aes(x = 1, y=score)) +
 #try to save the plot with ggsave()!
 #ggsave("~/Desktop/p0_v.png", p0_v, bg = "white") # need to specify bg white for theme_minimal now
 
-#If you look at the two plots you can tell they use a different amount of smoothing
-p2_v
-p2_rain
 
 # can you modify the violin to have similar smoothing?
 #answer*
@@ -145,7 +142,7 @@ p3c <- p3 + ggtitle("Figure 3c: Change in Colour Palette") +
   scale_fill_brewer(palette = "Dark2")
 p3c
 
-# lets do it with ggrain
+# lets do it with ggrain; it doesn't have to look the exact same
 ggplot(simdat, aes(x=group,y=score, fill = group)) +
   geom_rain()
 
