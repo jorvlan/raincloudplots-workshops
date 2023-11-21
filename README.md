@@ -26,8 +26,12 @@ You can find additional info about our funded project <a href="https://www.nwo.n
 
 ### There is a [walkthrough](https://www.njudd.com/raincloud-ggrain/) of the functionality along with a [GitHub](https://github.com/njudd/ggrain) repo.
 
-
-### How to install:
+### How to install from CRAN:
+```r
+install.packages("ggrain")
+library(ggrain)
+```
+### How to install from GitHub:
 ```r
 if (!require(remotes)) {
 	install.packages("remotes")
@@ -72,6 +76,12 @@ The workshops will take place on the following dates:
 	- Languages: R/Python/MATLAB/JASP
 	- Break-out rooms
 
+ - <b>31-mar-2023</b> (online, Oxford serotonin seminar only)
+	- 14:00-16:00 CET
+	- Languages: R/Python
+	- Break-out rooms
+
+
 ## Interested in attending? 
 #### Please read the following documentation about each workshop.
 
@@ -91,7 +101,7 @@ The workshops will take place on the following dates:
 
 - <b>There will be a maximum amount of 100 attendees for each workshop.</b>
 
-## Sign-up
+## Sign-up (not possible anymore)
 - You can register your attendance here: 
 https://docs.google.com/forms/d/e/1FAIpQLSeTykveO8tJl2zP-7QgNOfM3vMTbkEe5RtqxMKbE5AiVDzb1A/viewform
 <br>
