@@ -8,7 +8,7 @@
 if (!require(pacman)) {
   install.packages("pacman")
 }
-pacman::p_load(patchwork, tidyverse, lavaan, ggpp,
+pacman::p_load(patchwork, tidyverse, lavaan, ggpp, plyr,
                ggrain) #for rainclouds
 
 getwd() # this tells you the current path of R
@@ -18,7 +18,7 @@ getwd() # this tells you the current path of R
 # setwd("/Users/njudd/projects/rain/raincloudplots-workshops/tutorial/R_tutorial")
 #or select Session->set working directory
 
-#setwd("/Users/njudd/surfdrive/Shared/NWO Open Science Fund/Workshops/Workshop4 - 17 feb-2023/Materials/R_tutorial/")
+setwd("/Users/njudd/surfdrive/Shared/NWO Open Science Fund/Workshops/Workshop6 - Marburg/")
 
 source("geom_flat_violin.R") #this only works if you set the right path!
 source("fn_summary_SE.r") # This does the summary. For each group's data frame, return a vector with
@@ -145,7 +145,7 @@ p3c <- p3 + ggtitle("Figure 3c: Change in Colour Palette") +
   scale_fill_brewer(palette = "Dark2")
 p3c
 
-# lets do it with ggrain
+# lets do it with ggrain; it doesn't have to look the exact same
 ggplot(simdat, aes(x=group,y=score, fill = group)) +
   geom_rain()
 
@@ -396,3 +396,4 @@ ggplot(rep_data, aes(x = time, y = score, fill = group, color = group)) +
             violin.args = list(adjust = 1.5, trim = FALSE)) +
   scale_color_brewer(palette = "Dark2") + scale_fill_brewer(palette = "Dark2") +
   theme_minimal()
+
