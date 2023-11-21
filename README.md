@@ -16,7 +16,7 @@ Repository about the upcoming 'raincloudplots' workshops which are part of our N
 <br>
 <br>
 <br>
-You can find additional info about our funded project here: https://www.nwo.nl/en/projects/203001011
+You can find additional info about our funded project [here](https://www.nwo.nl/en/projects/203001011).
 
 
 ## [Click here to download all the material](https://surfdrive.surf.nl/files/index.php/s/1YdcZalIZxhFigy)
@@ -24,7 +24,7 @@ You can find additional info about our funded project here: https://www.nwo.nl/e
 
 ## R package - ggrain
 
-### [Here](https://www.njudd.com/raincloud-ggrain/) is a walkthrough of the functionality, along with the [GitHub](https://github.com/njudd/ggrain) repo.
+### There is a [walkthrough](https://www.njudd.com/raincloud-ggrain/) of the functionality along with a [GitHub](https://github.com/njudd/ggrain) repo.
 
 
 ### How to install:
