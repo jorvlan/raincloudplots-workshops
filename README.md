@@ -18,36 +18,16 @@ Repository about the upcoming 'raincloudplots' workshops which are part of our N
 <br>
 You can find additional info about our funded project here: https://www.nwo.nl/en/projects/203001011
 
-## What are raincloudplots?
-Raincloud plots were created and developed by Micah Allen, Davide Poggiali, Kirstie Whitaker, Tom Rhys Marshall, Jordy van Langen and Rogier Kievit.
 
-"Across scientific disciplines, there is a rapidly growing recognition of the need for more statistically robust, transparent approaches to data visualization. Complementary to this, many scientists have called for plotting tools that accurately and transparently convey key aspects of statistical effects and raw data with minimal distortion. Previously common approaches, such as plotting conditional mean or median barplots together with error-bars have been criticized for distorting effect size, hiding underlying patterns in the raw data, and obscuring the assumptions upon which the most commonly used statistical tests are based. We describe a data visualization approach which overcomes these issues, providing maximal statistical information while preserving the desired ‘inference at a glance’ nature of barplots and other similar visualization devices. These “raincloud plots” can visualize raw data, probability density, and key summary statistics such as median, mean, and relevant confidence intervals in an appealing and flexible format with minimal redundancy. We created and shared our open-source code for raincloudplots implementation in R, Python and Matlab <a href="https://github.com/RainCloudPlots/RainCloudPlots">https://github.com/RainCloudPlots/RainCloudPlots</a>."
-    
-For an extensive overview about raincloudplots, please read our paper or try out our R-package 'raincloudplots'.
+## [Click here to download all the material](https://surfdrive.surf.nl/files/index.php/s/1YdcZalIZxhFigy)
 
-**Paper**
-<br>
-<pre>
-- Allen, M., Poggiali, D., Whitaker, K., Marshall, T. R., van Langen, J., & Kievit, R. A.
-    Raincloud plots: a multi-platform tool for robust data visualization [version 2; peer review: 2 approved] 
-    <b>Wellcome Open Research</b> 2021, 4:63. <a href="https://doi.org/10.12688/wellcomeopenres.15191.2">https://doi.org/10.12688/wellcomeopenres.15191.2</a>
-</pre>
 
-**R-package: ['raincloudplots'](https://github.com/jorvlan/raincloudplots)** <img src="https://github.com/jorvlan/open-visualizations/blob/master/R/package_figures/rainclouds_highres.png" width="150" height="160" align="right"/>
+## R package - ggrain
 
-How to install:
-```r
-if (!require(remotes)) {
-    install.packages("remotes")
-}
-remotes::install_github('jorvlan/raincloudplots')
+### [Here](https://www.njudd.com/raincloud-ggrain/) is a walkthrough of the functionality, along with the [GitHub](https://github.com/njudd/ggrain) repo.
 
-library(raincloudplots)
-```
 
-**R-package: ['ggrain'](https://github.com/njudd/ggrain)**
-
-How to install:
+### How to install:
 ```r
 if (!require(remotes)) {
 	install.packages("remotes")
@@ -57,11 +37,20 @@ remotes::install_github('njudd/ggrain')
 library(ggrain)
 ```
 
+## Paper
+<br>
+<pre>
+- Allen, M., Poggiali, D., Whitaker, K., Marshall, T. R., van Langen, J., & Kievit, R. A.
+    Raincloud plots: a multi-platform tool for robust data visualization [version 2; peer review: 2 approved] 
+    <b>Wellcome Open Research</b> 2021, 4:63. <a href="https://doi.org/10.12688/wellcomeopenres.15191.2">https://doi.org/10.12688/wellcomeopenres.15191.2</a>
+</pre>
+
+
 ## Our plan
 With these workshops, we hope to educate & showcase 'raincloudplots' to the wider academic community.
 We will host three online workshops in which we will present step-by-step tutorials for experts, who are already familiar with 'raincloudplots', but also to those who find using code (unnecessarily) daunting. The free workshops will entail plenary walk-throughs and smaller break-out-rooms.
 
-## When?
+## When? (all finished)
 The workshops will take place on the following dates:
 <br>
 - <b> 23-sept-2022</b> Local in-person workshop (no external sign up possible, Donders Institute only)
